@@ -38,3 +38,4 @@ You've created a new ASP.NET 5 project. [Learn what's new](http://go.microsoft.c
 *   [Publish to Microsoft Azure Web Apps](http://go.microsoft.com/fwlink/?LinkID=398609)
 
 We would love to hear your [feedback](http://go.microsoft.com/fwlink/?LinkId=518015)
+jaja
