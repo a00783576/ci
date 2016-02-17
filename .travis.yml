@@ -16,6 +16,6 @@ script:
     #build the image
     - docker build --no-cache -t a00783576/myfirsttest .
     #tag the build
-    - docker tag a00783576/myfirsttest:latest a00783576/myfirsttest :v1
+    - docker tag a00783576/myfirsttest:latest a00783576/myfirsttest:v1
     #push the image to the repository
     - docker push a00783576/myfirsttest 
